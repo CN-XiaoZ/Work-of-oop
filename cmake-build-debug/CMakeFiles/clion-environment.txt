@@ -1,0 +1,2 @@
+Options: 
+CMake: 3.7.2@/home/zyc/clion-172.2103.9/bin/cmake/bin/cmake

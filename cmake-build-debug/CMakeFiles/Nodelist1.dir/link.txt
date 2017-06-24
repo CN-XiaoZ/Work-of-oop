@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/Nodelist1.dir/main.cpp.o CMakeFiles/Nodelist1.dir/Node.cpp.o CMakeFiles/Nodelist1.dir/List.cpp.o  -o Nodelist1 

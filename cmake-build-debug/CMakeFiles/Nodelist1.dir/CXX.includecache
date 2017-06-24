@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zyc/CLionProjects/Nodelist1/List.cpp
+List.h
+/home/zyc/CLionProjects/Nodelist1/List.h
+
+/home/zyc/CLionProjects/Nodelist1/List.h
+Node.h
+/home/zyc/CLionProjects/Nodelist1/Node.h
+
+/home/zyc/CLionProjects/Nodelist1/Node.cpp
+Node.h
+/home/zyc/CLionProjects/Nodelist1/Node.h
+
+/home/zyc/CLionProjects/Nodelist1/Node.h
+iostream
+-
+
+/home/zyc/CLionProjects/Nodelist1/main.cpp
+iostream
+-
+List.h
+/home/zyc/CLionProjects/Nodelist1/List.h
+
